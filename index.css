@@ -51,17 +51,17 @@ button:hover {
 }
 
 #increment-btn {
-    background: #42a5f5; /* Blue */
+    background: #42a5f5; 
 }
 
 #increment-btn:hover {
-    background: #1e88e5; /* Darker blue */
+    background: #1e88e5; 
 }
 
 #save-btn {
-    background: #66bb6a; /* Green */
+    background: #66bb6a; 
 }
 
 #save-btn:hover {
-    background: #43a047; /* Darker green */
+    background: #43a047; 
 }
